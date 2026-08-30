@@ -76,6 +76,8 @@ This project helped me practice the complete Data Analytics lifecycle — starti
 
 ### 📸 Dashboard Preview
 <img width="1536" height="806" alt="image" src="https://github.com/user-attachments/assets/5ed484b6-b9f2-476d-92c9-beec93baf96a" />
+
+
 <img width="1515" height="812" alt="image" src="https://github.com/user-attachments/assets/4f7fb70c-ed80-47b1-b5dc-9bc47ff1060e" />
 
 ### 👩‍💻 Project Type
